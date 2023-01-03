@@ -1,0 +1,18 @@
+let name="mazhar iqbal siddiquee";
+let school="central karimia high scool";
+let grade="A";
+let section="A";
+let rollno=07;
+let science=86;
+let math=80;
+let urdu=95;
+console.log("                 "+ "Report Card"+ "                 ");
+console.log("Name -"+name);
+console.log("School -"+school);
+console.log("Name -"+name);
+console.log("Grade -"+grade);
+console.log("Section -"+section);
+console.log("Roll no -"+rollno);
+console.log("Science -"+science);
+console.log("Math -"+math);
+console.log("Urdu -"+urdu);
